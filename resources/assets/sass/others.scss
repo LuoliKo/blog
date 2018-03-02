@@ -1,0 +1,10 @@
+.avatar-wrapper {
+  width: 39px;
+  height: 39px;
+  overflow: hidden;
+  cursor: pointer;
+  .avatar {
+    width: auto;
+    height: 100%;
+  }
+}
